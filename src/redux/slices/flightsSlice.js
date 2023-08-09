@@ -14,11 +14,11 @@ export const getFlightsAsync = createAsyncThunk(
       const response = { ...FlightsJSON };
       const data = response.data.filter((item) => {
         return (
-          item.departure.iataCode === search.flightFrom &&
-          item.arrival.iataCode === search.flightTo &&
-          new Date(item.departure.scheduledTime) >
+          item?.departure.iataCode === search.flightFrom &&
+          item?.arrival.iataCode === search.flightTo &&
+          new Date(item?.departure.scheduledTime) >
             new Date(search.detartureDate).setHours(0, 0, 0, 0) &&
-          new Date(item.departure.scheduledTime).setHours(0, 0, 0, 0) <=
+          new Date(item?.departure.scheduledTime).setHours(0, 0, 0, 0) <=
             new Date(search.detartureDate).setHours(24, 0, 0, 0)
         );
       });

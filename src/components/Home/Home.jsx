@@ -65,7 +65,7 @@ function Home({ bookingDetails, setBookingDetails, setOpenFlight }) {
 
   const decreasePassenger = (id) => {
     const passengers = passengerList.map((item) => {
-      if (item.id === id) {
+      if (item?.id === id) {
         item.count--;
       }
       return item;
@@ -75,7 +75,7 @@ function Home({ bookingDetails, setBookingDetails, setOpenFlight }) {
 
   const increasePassenger = (id) => {
     const passengers = passengerList.map((item) => {
-      if (item.id === id) {
+      if (item?.id === id) {
         item.count++;
       }
       return item;
@@ -87,7 +87,7 @@ function Home({ bookingDetails, setBookingDetails, setOpenFlight }) {
     setOpenFlight(false);
     if (bookingDetails.flightFrom !== '' && bookingDetails.flightTo !== '') {
       bookingDetails.passengerDeatils = passengerList.map((item) => {
-        return { id: item.id, count: item.count };
+        return { id: item?.id, count: item?.count };
       });
       await store.dispatch(getFlightsAsync(bookingDetails));
       setOpenFlight(true);
@@ -297,8 +297,8 @@ function Home({ bookingDetails, setBookingDetails, setOpenFlight }) {
                     <Box className="capitalize text-[black]">Passengers</Box>
                     <Box className="capitalize truncate text-[gray]">
                       {passengerList.map((item) => {
-                        return item.count > 0
-                          ? `${item.id} ${item.count} `
+                        return item?.count > 0
+                          ? `${item?.id} ${item?.count} `
                           : '';
                       })}
                     </Box>
@@ -313,24 +313,24 @@ function Home({ bookingDetails, setBookingDetails, setOpenFlight }) {
                       <Box className="flex !rounded-none justify-between my-3 mx-4 pb-3 border-b">
                         <Box>
                           <Box className="font-bold text-[gray]">
-                            {item.title}
+                            {item?.title}
                           </Box>
                           <Box className="text-sm text-[gray] text-sm">
-                            {item.description}
+                            {item?.description}
                           </Box>
                         </Box>
                         <Box className="flex items-center gap-2">
                           <Box>
                             <RemoveCircleOutlineIcon
                               sx={{ color: '#ff6301' }}
-                              onClick={() => decreasePassenger(item.id)}
+                              onClick={() => decreasePassenger(item?.id)}
                             />
                           </Box>
-                          <Box>{item.count}</Box>
+                          <Box>{item?.count}</Box>
                           <Box>
                             <AddCircleOutlineIcon
                               sx={{ color: '#ff6301' }}
-                              onClick={() => increasePassenger(item.id)}
+                              onClick={() => increasePassenger(item?.id)}
                             />
                           </Box>
                         </Box>

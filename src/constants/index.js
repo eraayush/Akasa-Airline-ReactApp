@@ -20,12 +20,13 @@ export const formatDate = (dateString) => {
 };
 
 export const initialBookingData = {
-    tripType: 'oneway',
-    flightFrom: '',
-    flightTo: '',
-    detartureDate: dayjs(new Date()).toISOString(),
-    returnDate: dayjs(new Date()).toISOString(),
-    promoCode: '',
-    passengerDeatils: {},
-    flightDetails: {},
+  tripType: 'oneway',
+  flightFrom: '',
+  flightTo: '',
+  detartureDate: dayjs(new Date()).toISOString(),
+  returnDate: dayjs(new Date()).toISOString(),
+  promoCode: '',
+  passengerDeatils: {},
+  flightDetails: {},
+  contactDetails: {},
 };
