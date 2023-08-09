@@ -1,0 +1,2164 @@
+{
+  "data": [
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T02:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T02:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3889"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T08:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T24:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T24:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "4000"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T22:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T22:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T01:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T01:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3609"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T08:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T04:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T04:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3999"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T03:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T11:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T11:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3989"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T04:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T20:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T20:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3349"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-13T20:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-13T14:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-13T14:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3600"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BLR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-13T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-13T12:40:00.000",
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-13T12:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "4189"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "BOM",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-10T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "BLR",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-10T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-10T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-10T19:04:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T15:59:00.000",
+        "actualTime": "2023-08-10T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-10T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "BOM",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-10T19:04:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T15:59:00.000",
+        "actualTime": "2023-08-10T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-10T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BOM",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BOM",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T16:55:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BOM",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-14T04:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-14T00:40:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-14T00:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3489"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "BOM",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-10T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "BLR",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-10T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-10T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "BOM",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-10T19:04:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T15:59:00.000",
+        "actualTime": "2023-08-10T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-10T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "BOM",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-10T19:04:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-10T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T15:59:00.000",
+        "actualTime": "2023-08-10T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-10T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "IDR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BLR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BOM",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-10T23:39:00.000",
+        "actualTime": "2023-08-10T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-10T23:39:00.000",
+        "estimatedTime": "2023-08-10T23:00:00.000",
+        "iataCode": "GAY",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-10T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "BOM",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-10T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-10T16:55:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-10T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T22:40:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T22:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3089"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-11T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "PNQ",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-11T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-11T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-11T19:04:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T15:59:00.000",
+        "actualTime": "2023-08-11T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-11T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-11T19:04:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T15:59:00.000",
+        "actualTime": "2023-08-11T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-11T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T16:55:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T22:40:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T22:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-11T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "PNQ",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-11T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-11T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-11T19:04:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T15:59:00.000",
+        "actualTime": "2023-08-11T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-11T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-11T19:04:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-11T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T15:59:00.000",
+        "actualTime": "2023-08-11T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-11T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "IDR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-11T23:39:00.000",
+        "actualTime": "2023-08-11T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-11T23:39:00.000",
+        "estimatedTime": "2023-08-11T23:00:00.000",
+        "iataCode": "GAY",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-11T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-11T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-11T16:55:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-11T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T22:40:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T22:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-12T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "PNQ",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-12T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "AMD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-12T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-12T19:04:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T15:59:00.000",
+        "actualTime": "2023-08-12T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-12T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-12T19:04:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T15:59:00.000",
+        "actualTime": "2023-08-12T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-12T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T16:55:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T06:10:00.000",
+        "terminal": "1"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T22:40:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T22:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "TP1532",
+        "icaoNumber": "TAP1532",
+        "number": "1532",
+        "price": "3567"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-12T16:06:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T15:10:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T15:00:00.000"
+      },
+      "flight": {
+        "iataNumber": "1I540",
+        "icaoNumber": "EJA540",
+        "number": "540",
+        "price": "4689"
+      },
+      "status": "active",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "departure": {
+        "iataCode": "PNQ",
+        "icaoCode": "VOPN",
+        "scheduledTime": "2023-08-12T18:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S619",
+        "icaoNumber": "KSZ19",
+        "number": "19",
+        "price": "3889"
+      },
+      "status": "unknown",
+      "type": "departure"
+    },
+    {
+      "airline": {
+        "iataCode": "JAI",
+        "icaoCode": "JAI",
+        "name": "Jet Airways"
+      },
+      "arrival": {
+        "iataCode": "DEL",
+        "icaoCode": "VAAH",
+        "scheduledTime": "2023-08-12T18:00:00.000"
+      },
+      "departure": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T17:30:00.000"
+      },
+      "flight": {
+        "iataNumber": "S618",
+        "icaoNumber": "KSZ18",
+        "number": "18",
+        "price": "3686"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-12T19:04:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "af",
+          "icaoCode": "afr",
+          "name": "air france"
+        },
+        "flight": {
+          "iataNumber": "af604",
+          "icaoNumber": "afr604",
+          "number": "604",
+          "price": "3700"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T15:59:00.000",
+        "actualTime": "2023-08-12T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-12T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "1R5604",
+        "icaoNumber": "1R5604",
+        "number": "5604",
+        "price": "5189"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo"
+      },
+      "arrival": {
+        "delay": "5",
+        "estimatedTime": "2023-08-12T19:04:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VOBG",
+        "scheduledTime": "2023-08-12T19:00:00.000"
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T15:59:00.000",
+        "actualTime": "2023-08-12T15:59:00.000",
+        "baggage": null,
+        "delay": "10",
+        "estimatedRunway": "2023-08-12T15:59:00.000",
+        "estimatedTime": null,
+        "gate": "2",
+        "iataCode": "IDR",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T15:50:00.000"
+      },
+      "flight": {
+        "iataNumber": "AF604",
+        "icaoNumber": "AFR604",
+        "number": "604",
+        "price": "4900"
+      },
+      "status": "active",
+      "type": "arrival"
+    },
+    {
+      "airline": {
+        "iataCode": "IGO",
+        "icaoCode": "IGO",
+        "name": "Interglobe Aviation Ltd. dba Indigo",
+        "price": "4989"
+      },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "BHO",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "DEL",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AZ6124",
+        "icaoNumber": "AZA6124",
+        "number": "6124",
+        "price": "4180"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "PNQ",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "codeshared": {
+        "airline": {
+          "iataCode": "at",
+          "icaoCode": "ram",
+          "name": "royal air maroc"
+        },
+        "flight": {
+          "iataNumber": "at1446",
+          "icaoNumber": "ram1446",
+          "number": "1446",
+          "price": "4100"
+        }
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "IB1817",
+        "icaoNumber": "IBE1817",
+        "number": "1817",
+        "price": "4109"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "delay": "20",
+        "estimatedTime": "2023-08-08T00:19:00.000",
+        "iataCode": "HYD",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T23:59:00.000",
+        "terminal": "2"
+      },
+      "departure": {
+        "actualRunway": "2023-08-12T23:39:00.000",
+        "actualTime": "2023-08-12T23:39:00.000",
+        "baggage": null,
+        "delay": "40",
+        "estimatedRunway": "2023-08-12T23:39:00.000",
+        "estimatedTime": "2023-08-12T23:00:00.000",
+        "iataCode": "GAY",
+        "icaoCode": "VABP",
+        "scheduledTime": "2023-08-12T23:00:00.000",
+        "terminal": "1"
+      },
+      "flight": {
+        "iataNumber": "AT1446",
+        "icaoNumber": "RAM1446",
+        "number": "1446",
+        "price": "4450"
+      },
+      "status": "scheduled",
+      "type": "arrival"
+    },
+    {
+      "airline": { "iataCode": "AI", "icaoCode": "AI", "name": "Air India" },
+      "arrival": {
+        "iataCode": "HYD",
+        "icaoCode": "VIDP",
+        "scheduledTime": "2023-08-12T17:28:00.000"
+      },
+      "departure": {
+        "delay": "10",
+        "estimatedTime": "2023-08-12T16:55:00.000",
+        "iataCode": "IDR",
+        "icaoCode": "VABB",
+        "scheduledTime": "2023-08-12T16:45:00.000"
+      },
+      "flight": {
+        "iataNumber": "",
+        "icaoNumber": "RCA591",
+        "number": "591",
+        "price": "4290"
+      },
+      "status": "active",
+      "type": "departure"
+    }
+  ]
+}

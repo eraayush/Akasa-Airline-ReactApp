@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "iataCode": "AMD",
+            "icaoCode": "VAAH",
+            "airport_name": "Ahmedabad Airport",
+            "city_name": "Ahmedabad"
+        },
+        {
+            "iataCode": "BLR",
+            "icaoCode": "VOBG",
+            "airport_name": "Bengaluru International Airport",
+            "city_name": "Bangalore"
+        },
+        {
+            "iataCode": "BHO",
+            "icaoCode": "VABP",
+            "airport_name": "Bhopal Airport",
+            "city_name": "Bhopal"
+        },
+        {
+            "iataCode": "BOM",
+            "icaoCode": "VABB",
+            "airport_name": "Chhatrapati Shivaji International Airport",
+            "city_name": "Mumbai"
+        },
+        {
+            "iataCode": "IDR",
+            "icaoCode": "VAID",
+            "airport_name": "Devi Ahilyabai Holkar Airport",
+            "city_name": "Indore"
+        },
+        {
+            "iataCode": "GAY",
+            "icaoCode": "VEGY",
+            "airport_name": "Gaya Airport",
+            "city_name": "Gaya"
+        },
+        {
+            "iataCode": "GWL",
+            "icaoCode": "VIGR",
+            "airport_name": "Gwalior Airport",
+            "city_name": "Gwalior"
+        },
+        {
+            "iataCode": "HYD",
+            "icaoCode": "VOHY",
+            "airport_name": "Hyderabad International Airport",
+            "city_name": "Hyderabad"
+        },
+        {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP",
+            "airport_name": "Indira Gandhi International Airport",
+            "city_name": "New Delhi"
+        },
+        {
+            "iataCode": "PNQ",
+            "icaoCode": "VAPO",
+            "airport_name": "Lohegaon Airport",
+            "city_name": "Pune"
+        },
+        {
+            "iataCode": "CCU",
+            "icaoCode": "VECC",
+            "airport_name": "Netaji Subhash Chandra Bose International Airport",
+            "city_name": "Kolkata"
+        },
+        {
+            "iataCode": "ATQ",
+            "icaoCode": "VIAR",
+            "airport_name": "Raja Sansi Airport",
+            "city_name": "Amritsar"
+        },
+        {
+            "iataCode": "JAI",
+            "icaoCode": "VIJP",
+            "airport_name": "Sanganeer Airport",
+            "city_name": "Jaipur"
+        },
+        {
+            "iataCode": "IXJ",
+            "icaoCode": "VIJU",
+            "airport_name": "Satwari Airport",
+            "city_name": "Jammu"
+        },
+        {
+            "iataCode": "VNS",
+            "icaoCode": "VIBN",
+            "airport_name": "Varanasi Airport",
+            "city_name": "Varanasi"
+        }
+    ]
+}
